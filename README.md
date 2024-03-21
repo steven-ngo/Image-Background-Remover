@@ -7,7 +7,7 @@ https://stevengo-background-remover.streamlit.app/
 ## Dependencies
 streamlit==1.32.0 \
 rembg==2.0.50   \
-Pillow==9.3.0  \
+Pillow==9.3.0  
 
 ## Run the App Locally
 ### Create conda environment
