@@ -7,6 +7,7 @@ from io import BytesIO
 st.markdown('''
 # Image Background Remover
 
+- Author: `Steven Ngo`
 - Source Code: https://github.com/steven-ngo/Image-Background-Remover
 - Language: `Python`
 - Libraries: `streamlit` `rembg` `Pillow`
